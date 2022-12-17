@@ -5,7 +5,7 @@ Synergy - a discord chatbot built using the OpenAI API
 - Export the latest chat history with one command
 - Set up easily with just two commands
 - Seamless updates – the bot is constantly improving
-- And it's free!
+- The bot is free but you will need an OpenAI API plan
 
 Please note that this project is in active development, may contain unknown bugs.
 
